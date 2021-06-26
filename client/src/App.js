@@ -5,7 +5,7 @@ import Notifications from './components/Notifications';
 function App() {
   return (
     <div className="App">
-       <h1>Video Chat </h1>
+       <h1>Video Chat Client</h1>
        <VideoPlayer />
        <Sidebar>
         <Notifications />
